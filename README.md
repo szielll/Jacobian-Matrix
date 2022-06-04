@@ -1,4 +1,4 @@
-# Jacobian-Matrix
+# Jacobian Matrix of a SCARA - PRR Variant 2 Manipulator
 
 ### Simple Calculator for obtaining Jacobian Matrix and the Determinants or Singularity, Inverse Velocity, and Force-Torque Analysis of a SCARA PRR Variant 2 Manipulator
 
